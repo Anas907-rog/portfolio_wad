@@ -42,8 +42,8 @@ everywhere it's used.
 
 :root {
     /* Colors */
-    --primary-color: #2c3e50;
-    --secondary-color: #34495e;
+    --primary-color: #white;
+    --secondary-color: #black;
     --accent-color: #2672ad;
     --text-dark: #2c3e50;
     --text-light: #5f6f73;
